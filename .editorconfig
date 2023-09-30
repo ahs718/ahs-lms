@@ -1,0 +1,5 @@
+# Top level settings
+root = true
+
+# 2 space indentation
+tab_width = 2
